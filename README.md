@@ -1,10 +1,15 @@
+<p align="center">
+ <img  src="https://media.tenor.com/60iygYfJC_wAAAAd/misa-uzamaid.gif">
+  </p>
+
+
 ### Hello, I'm Anindita <img src="https://raw.githubusercontent.com/cpriyam49/cpriyam49/master/Hi.gif" width="25px" />
 ## I'm a CSE 3rd Year Undergraduate student at University of Engineering and Management Kolkata
 # Little about myself :
 
-- 🌱 I’m currently on a Learning Spree 😅
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects and level up my skills
+- 🌱 I’m currently polishing my skills on Java, Python, C and Web Development.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2023 Goals: Contribute more to Open Source projects and level up my skills.
 
 ### Connect with me:
 
@@ -16,3 +21,16 @@
    <img align="center" src="https://gpvc.arturio.dev/Anindita6">
 <br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anindita6&theme=midnight-purple&show_icons=true&count_private=true">
+
+ <p align="center">
+   <img align="center" src="https://gpvc.arturio.dev/Anindita6">
+ 
+   
+  <p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anindita6&theme=synthwave&show_icons=true&count_private=true"> 
+
+  
+    
+
+   <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anindita6&theme=dark"> 
